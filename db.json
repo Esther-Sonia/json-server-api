@@ -1,46 +1,58 @@
 {
-  "plants": [
+  "workouts": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
+      "id": "12b8",
+      "type": "Swimming",
+      "duration": 50,
+      "date": "2025-04-19",
+      "notes": "Went swimming in the morning"
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "id": "fadc",
+      "type": "Running",
+      "duration": 120,
+      "date": "2025-04-20",
+      "notes": "Went for a jog in the field",
+      "distance": 10
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
+      "id": "f5fe",
+      "type": "Cycling",
+      "duration": 45,
+      "date": "2025-04-21",
+      "notes": "Went cycling to Karura",
+      "distance": 20
     },
     {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
+      "id": "4a1b",
+      "type": "Running",
+      "duration": 100,
+      "date": "2025-04-22",
+      "notes": "Went for a walk at Karura on friday",
+      "distance": 10
     },
     {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
+      "id": "134c",
+      "type": "Walking",
+      "duration": 60,
+      "date": "2025-04-23",
+      "notes": "Went for yoga",
+      "distance": null
     },
     {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
+      "id": "9be0",
+      "type": "Basketball",
+      "duration": 50,
+      "date": "2025-04-24",
+      "notes": "went for basketball"
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "id": "8e71",
+      "type": "Walking",
+      "duration": 30,
+      "date": "2025-04-17",
+      "notes": "walked for 1 km",
+      "distance": 1
     }
   ]
 }

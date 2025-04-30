@@ -1,5 +1,5 @@
 {
-  "name": "plantsy-server-api",
+  "name": "json-server-api",
   "version": "1.0.0",
   "description": "A simple JSON-server API hosted on Render",
   "main": "server.js",
